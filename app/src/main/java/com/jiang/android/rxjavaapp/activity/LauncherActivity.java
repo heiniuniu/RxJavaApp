@@ -14,7 +14,6 @@ import com.nostra13.universalimageloader.core.ImageLoader;
 
 public class LauncherActivity extends AppCompatActivity {
 
-
     ImageView mSplash;
 
     @Override
